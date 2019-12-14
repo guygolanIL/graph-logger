@@ -1,0 +1,19 @@
+{
+  "name": "graph-logger",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "guy.golan",
+  "license": "ISC",
+  "devDependencies": {
+    "tsc": "^1.20150623.0",
+    "@types/node": "^12.12.17",
+    "typescript": "^3.7.3"
+  },
+  "dependencies": {
+    
+  }
+}
